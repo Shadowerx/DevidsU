@@ -6,7 +6,7 @@ class WHSWaveTableTableEventHandler
         /// </summary>
         /// <param name="args"></param>
         /// <remarks>
-        /// C - Dēvids Ulanovs 4/15/2019, MOD107_WaveForms
+        /// C - Dēvids Ulanovs 4/15/2019
         /// </remarks>
     
         [PreHandlerFor(tableStr(WHSWaveTable), tableMethodStr(WHSWaveTable, insert))]
