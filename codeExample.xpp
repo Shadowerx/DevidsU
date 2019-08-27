@@ -16,7 +16,7 @@ final public class SalesQuotationLine_Extension
     /// <returns>
     /// </returns>
     /// <remarks>
-    /// C - By Dēvids Ulanovs, 03-19-2019, MOD101_NetSalesPrice
+    /// C - By Dēvids Ulanovs, 03-19-2019
     /// </remarks>
     void initFromPriceDisc(PriceDisc_Price _priceDisc, PriceDiscPolicyCheckPolicy _checkPolicy, boolean _initDateFields, RetailSalesQuotationCalculator _retailCalculator)
     {
@@ -65,7 +65,7 @@ final public class SalesQuotationLine_Extension
     /// <returns>
     /// </returns>
     /// <remarks>
-    /// C - By Dēvids Ulanovs, 03-19-2019, MOD101_NetSalesPrice
+    /// C - By Dēvids Ulanovs, 03-19-2019
     /// </remarks>
     public void modifiedField(FieldId _fieldId, boolean _userInput)
     {
